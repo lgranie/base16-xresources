@@ -4,3 +4,6 @@ default:
 default-256:
     extension: -256.Xresources
     output: xresources
+default-256-24:
+    extension: -256-24.Xresources
+    output: xresources
